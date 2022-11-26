@@ -1,0 +1,29 @@
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+span{
+    color: aliceblue;
+    background-color: red;
+}
+body{
+    text-align:justify;
+    width: 650px;
+    margin: 0px auto ;
+    margin: auto ;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #0bcece;
+}
+
+
+
